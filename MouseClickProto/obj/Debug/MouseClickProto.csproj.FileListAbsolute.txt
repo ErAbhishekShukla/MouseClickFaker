@@ -1,0 +1,9 @@
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\bin\Debug\MouseClickProto.exe.config
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\bin\Debug\MouseClickProto.exe
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\bin\Debug\MouseClickProto.pdb
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Debug\MouseClickProto.Form1.resources
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Debug\MouseClickProto.Properties.Resources.resources
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Debug\MouseClickProto.csproj.GenerateResource.Cache
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Debug\MouseClickProto.exe
+c:\users\ashukla7\documents\visual studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Debug\MouseClickProto.pdb
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Debug\MouseClickProto.csprojResolveAssemblyReference.cache

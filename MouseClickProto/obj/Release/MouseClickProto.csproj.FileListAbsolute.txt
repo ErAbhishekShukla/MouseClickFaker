@@ -1,0 +1,8 @@
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\bin\Release\MouseClickProto.exe.config
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\bin\Release\MouseClickProto.exe
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\bin\Release\MouseClickProto.pdb
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Release\MouseClickProto.Form1.resources
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Release\MouseClickProto.Properties.Resources.resources
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Release\MouseClickProto.csproj.GenerateResource.Cache
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Release\MouseClickProto.exe
+C:\Users\ashukla7\Documents\Visual Studio 2012\Projects\MouseClickProto\MouseClickProto\obj\Release\MouseClickProto.pdb
